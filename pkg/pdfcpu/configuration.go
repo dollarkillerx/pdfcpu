@@ -17,7 +17,6 @@ limitations under the License.
 package pdfcpu
 
 import (
-	_ "embed"
 	"fmt"
 	"io/ioutil"
 	"os"
